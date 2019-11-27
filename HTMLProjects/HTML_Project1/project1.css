@@ -1,0 +1,18 @@
+body {
+    font-family: "Comic Sans MS";
+}
+
+.ProfilePic {
+    border: dotted 4px purple;
+    border-radius: 50%;
+}
+
+h1 {
+    background-color: pink;
+    padding: 5px;
+    margin: 10px;
+}
+
+.section-title {
+    text-transform: capitalize;
+}

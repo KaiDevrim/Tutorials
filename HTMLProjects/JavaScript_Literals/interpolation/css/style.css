@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #e8ffff;
+  color: #fffeec;
+}
+h1 {
+  color: #a97a47;
+}
+h2 {
+  color: #62628a;
+}
+h3 {
+  color: #ffd9af;
+}
+h1, h2, h3 {
+  font-family: 'Acme', sans-serif;
+}
+ul  {
+  list-style: none;
+}
+p, ul {
+  padding-left: 1em;
+}
+div {
+  margin: 1em;
+  padding: 1em;
+  background-color: #8c9aaf;
+  border-radius:0.5em;
+}
+
+div div {
+  background-color: #667386;
+}
