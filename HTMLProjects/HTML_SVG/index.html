@@ -3,21 +3,34 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scalable Vector Graphics</title>
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
+    <title>OdinJS</title>
   </head>
   <body>
 
-    <h1>SVG Example</h1>
-    
-    <div class="wrapper">
-      
-      
-      
-      
-      
-    </div>
+    <p id="replace">Test</p>
 
+    <script>
+      var fullString = " \t \n" - 2;
+
+      if (isNaN(fullString)) {
+        document.getElementById("replace").innerHTML = fullString + " isNaN";
+      }
+
+      else {
+      document.getElementById("replace").innerHTML = fullString;
+      }
+    </script>
+
+    <style>
+      p {
+        text-align: justify;
+        font-size: 32px;
+        text-size-adjust: 32px;
+        margin: 0;
+        position: absolute;
+        left:50%;
+        top: 50%;
+      }
+    </style>
   </body>
 </html>
