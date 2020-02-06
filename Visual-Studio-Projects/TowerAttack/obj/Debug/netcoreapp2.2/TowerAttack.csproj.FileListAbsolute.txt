@@ -1,0 +1,3 @@
+/Users/kai/Documents/GitHub/Tutorials/Visual-Studio-Projects/TowerAttack/obj/Debug/netcoreapp2.2/TowerAttack.csprojAssemblyReference.cache
+/Users/kai/Documents/GitHub/Tutorials/Visual-Studio-Projects/TowerAttack/obj/Debug/netcoreapp2.2/TowerAttack.AssemblyInfoInputs.cache
+/Users/kai/Documents/GitHub/Tutorials/Visual-Studio-Projects/TowerAttack/obj/Debug/netcoreapp2.2/TowerAttack.AssemblyInfo.cs

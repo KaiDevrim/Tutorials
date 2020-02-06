@@ -1,0 +1,3 @@
+/Users/kai/Documents/GitHub/Tutorials/C_Book/First_Section/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kai/Documents/GitHub/Tutorials/C_Book/First_Section/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kai/Documents/GitHub/Tutorials/C_Book/First_Section/cmake-build-debug/CMakeFiles/Hello_World.dir

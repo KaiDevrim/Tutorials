@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1878B3B7-1D89-466D-8445-106A3EF34B46}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TowerAttack/MapLocation.cs">
+    <Files>
+      <File FileName="TowerAttack/Exception.cs" Line="1" Column="1" />
+      <File FileName="TowerAttack/Game.cs" Line="1" Column="1" />
+      <File FileName="TowerAttack/Invader.cs" Line="1" Column="1" />
+      <File FileName="TowerAttack/Level.cs" Line="1" Column="1" />
+      <File FileName="TowerAttack/Map.cs" Line="1" Column="1" />
+      <File FileName="TowerAttack/Path.cs" Line="1" Column="1" />
+      <File FileName="TowerAttack/MapLocation.cs" Line="21" Column="6" />
+      <File FileName="TowerAttack/Point.cs" Line="1" Column="1" />
+      <File FileName="TowerAttack/Tower.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TowerAttack" expanded="True">
+            <Node name="TowerAttack" expanded="True">
+              <Node name="MapLocation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TowerAttack PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
